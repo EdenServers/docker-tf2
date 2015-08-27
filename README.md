@@ -1,6 +1,7 @@
 # Official Team Fortress 2 Container on EdenServers
 
 [![Run on EdenServers](https://img.shields.io/badge/EdenServers-view-blue.svg)](http://www.edenservers.us)
+[![](https://badge.imagelayers.io/edenservers/tf2:latest.svg)](https://imagelayers.io/?images=edenservers/tf2:latest 'Get your own badge on imagelayers.io')
 
 ![](https://upload.wikimedia.org/wikipedia/fr/4/41/Team_Fortress_2.png)
 
